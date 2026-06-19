@@ -1,0 +1,1 @@
+[ 10 10 ] ? "my_examples/test_tensor.bin" }

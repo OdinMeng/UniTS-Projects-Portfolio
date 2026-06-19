@@ -1,0 +1,1 @@
+[ 10000 10000 ] ? "my_examples/image.pgm" ) "my_examples/image.pgm" ( 
