@@ -40,7 +40,7 @@ This is a personal collection of *projects* and *course notes* made during my Ba
 |  | Optimization Algorithms |    [📖](./lecture_notes/Appunti%20Algoritmi%20di%20Ottimizzazione.pdf)  |   🇮🇹  |
 |  | Numerical Analysis |    [📖](./lecture_notes/Completone%20Analisi%20Numerica.pdf)  |   🇮🇹  |
 |  | Algorithms and Data Structures |    [📖](./lecture_notes/Completone%20Algoritmi%20e%20Strutture%20Dati.pdf)  |   🇮🇹  |
-|  | Introduction to Machine Learning (mod. B) |    📖  |   🇮🇹  |
+|  | Introduction to Machine Learning (mod. B) |    [📖](./lecture_notes/Machine%20Learning%20B%20(parziale).pdf)  |   🇮🇹  |
 | \* | Introduction to Machine Learning (mod. A) |    [📖](./lecture_notes/Machine%20Learning%20I%20Summary.pdf)  |   🇬🇧  |
 | \* | Databases |    [📖](./lecture_notes/Databases%20I%20Summary.pdf)  |   🇬🇧  |
 | \* | Data Preprocessing |    [📖](./lecture_notes/Data%20Preprocessing%20Summary.pdf)  |   🇬🇧  |
