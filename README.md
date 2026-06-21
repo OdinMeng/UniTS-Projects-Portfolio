@@ -4,6 +4,8 @@ This is a personal collection of *projects* and *course notes* made during my Ba
 
 > **N.B.** Most of my lecture notes are written in Italian, with no intention to translate them into English.
 
+If you would like to show appreciation for my work, you can offer me a coffe by making a donation through my [Paypal account](https://www.paypal.me/DinoMeng)! 
+
 ## PROJECTS
 
 [**Machine Learning (mod. B)**](./projects/MachineLearning/) - *SVD-Based Spectral Clustering (insert link!)*
