@@ -8,7 +8,7 @@ If you would like to show appreciation for my work, you can offer me a coffe by 
 
 ## PROJECTS
 
-[**Bachelor's Thesis**](./projects/thesis/) - *Hybridizing Deep Learning and Classical Mathematical Modeling: theory and new applications*
+[**Bachelor's Thesis**](./thesis/) - *Hybridizing Deep Learning and Classical Mathematical Modeling: theory and new applications*
 - The BSc thesis is mainly about [*Universal Differential Equations*](https://arxiv.org/abs/2001.04385), one of the most recent ideas in hybrid modeling
 - In this work I have experimented with the ideas of Universal Differential Equations (UDEs), applying it to novel case studies such as population dynamics, neuronal modeling and chaotic dynamical systems
 - We have also conducted an extensive and complete literature reviews, starting from the first mathematical models (such as Malthus' growth equation in 1798) to the state-of-art UDE architectures (in particular the [PEM-UDE](https://arxiv.org/abs/2507.03631) variant, proposed last year)
