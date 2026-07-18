@@ -14,7 +14,7 @@ If you would like to show appreciation for my work, you can offer me a coffe by 
 - We also conducted an extensive literature review, covering the development of mathematical modeling from the earliest models—such as Malthus’ growth equation from 1798—to state-of-the-art UDE architectures, particularly the [PEM-UDE](https://arxiv.org/abs/2507.03631) variant proposed last year.
 - All the work was conducted under the supervision of Professor Alberto D’Onofrio, Associate Professor in the Department of Mathematics, Informatics and Geosciences.
 
-[**Machine Learning (mod. B)**](./projects/MachineLearning/) - *SVD-Based Spectral Clustering (insert link!)*
+[**Machine Learning (mod. B)**](./projects/MachineLearning/) - *SVD-Based Spectral Clustering*
 - The Singular Value Decomposition (SVD) is one of the most important results in numerical linear algebra. In this work I reviewed a paper which describes an algorithm which applies the SVD to clustering problems. 
 - The described algorithm is a variant of the Spectral Clustering method. 
 - Reproduction of the main results of the paper, as well as tests on other datasets such as the two-moons dataset.
