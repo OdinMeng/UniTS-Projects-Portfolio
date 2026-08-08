@@ -61,3 +61,7 @@ If you would like to show appreciation for my work, you can offer me a coffe by 
 > \*\* Elective course
 
 > \*\*\* Not available until September 2026
+
+## COURSE REVIEWS
+
+See [this file](course_reviews.md) for a complete list of (*personal*) course reviews. Note that they're written in Italian due to the BSc degree being held in Italian.
