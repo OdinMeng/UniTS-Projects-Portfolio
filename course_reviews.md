@@ -38,7 +38,7 @@
 
 **Teoria dell'Informazione e Fisica Statistica.** Corso abbastanza interessante, per una volta abbiamo un prof normale (anche se tende ad arrivare sempre in ritardo alle lezioni e addirittura al suo esame). L'esame è gratis, consiste in uno scritto in cui ci sono esercizi più o meno identici a quelli fatti in calssi, in più con la possibilità di portarsi gli appunti col proprio portatile/tablet. 
 
-**Programmazione Avanzata e Parallela.** Corso interessante, praticamente si approfondisce i linguaggi C e Python visti con caravagna. Il progetto è piuttosto lungo (in particolare la parte di C...), però l'esame è chill (a crocette e due esercizi brevi).
+**Programmazione Avanzata e Parallela.** Corso interessante, praticamente si approfondiscono i linguaggi C e Python visti con caravagna. Il progetto è piuttosto lungo (in particolare la parte di C...), però l'esame è chill (a crocette e due esercizi brevi).
 
 
 ## PARTE 2: ESAMI FATTI A LISBONA (NOVA IMS)
